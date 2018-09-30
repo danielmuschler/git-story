@@ -1,2 +1,2 @@
-this is a story all about how my life got flipped turned upside down. Now Id like to take a minute and just sit right here and tell you how I became the prince of a town called Bel-Air >> story.rb
-~/Desktop/actualize/git-story$ echo this is a story all about how my life got flipped turned upside down. Now Id like to take a minute and just sit right here and tell you how I became the prince of a town called Bel-Air
+this is a story all about how my life got flipped turned upside down. Now Id like to take a minute just sit right here tell you how I became the prince of a town called Bel-Air >> story.rb
+~/Desktop/actualize/git-story$ echo this is a story all about how my life got flipped turned upside down. Now Id like to take a minute just sit right here tell you how I became the prince of a town called Bel-Air
